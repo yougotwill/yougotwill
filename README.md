@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**yougotwill/yougotwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.kym-cdn.com/photos/images/original/001/475/420/c62.gif" alt="obi-wan-kenobi-meme" width="320"/>
 
-Here are some ideas to get you started:
+## Open source fan, from South Africa 🇿🇦, living in Japan 🇯🇵.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- English teacher by day 👨‍🏫, Front-End Developer by night. 👨‍💻
+- I like building web applications to solve everyday problems. 👷
+- Currently messing around with React but love keeping up to date with the latest web technologies. 🧑‍💻
+
+Want to learn more about me? Head on over to my [website](https://yougotwill.github.io). 🌐
+
+
+Want to chat? Send me an email @ [yougotwill94@gmail.com](mailto:yougotwill94@gmail.com). 📧
+
+**P.S.** I'm looking for full-time dev work in Japan! 👔
