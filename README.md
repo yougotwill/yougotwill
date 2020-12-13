@@ -13,4 +13,4 @@ Want to learn more about me? Head on over to my <a href="https://yougotwill.gith
 
 Want to chat? Send me an email at [yougotwill94@gmail.com](mailto:yougotwill94@gmail.com). 📧
 
-**P.S.** I'm looking for full-time dev work in Japan! 👔
+**P.S.** I'm looking for full-time work! 👔
