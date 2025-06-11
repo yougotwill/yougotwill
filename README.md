@@ -23,4 +23,4 @@ Taking a breather between roles and doing a bit of freelancing.
 
 **Open to opportunities from August 2025.**
 
-<a href="https://drive.proton.me/urls/38K0G4YCJM#JgBW2n9dtE8X" target="blank">Resume</a>
+<a href="https://resume.yougotwill.com" target="blank">Resume</a>
