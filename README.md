@@ -6,16 +6,16 @@
 
 I like working on projects that have impact and enjoy contributing to the open source community in my free time. 🌍
 
-Learn more about me on my [website](https://yougotwill.com). 🚀
+Learn more about me on my <a href="https://yougotwill.com" target="_blank">website</a>. 🚀
 
 ## Previously 📝
 
-- [Session Messenger](https://getsession.org) ([@session-foundation](https://github.com/session-foundation), [@oxen-io](https://github.com/oxen-io))
-- [Timbuktu Travel](https://timbuktutravel.com)
+- <a href="https://getsession.org" target="_blank">Session Messenger</a> ([@session-foundation](https://github.com/session-foundation), [@oxen-io](https://github.com/oxen-io))
+- <a href="https://timbuktutravel.com" target="_blank">Timbuktu Travel</a>
 
 ## Want to chat? 💬
 - Drop an email [hi@yougotwill.com](mailto:hi@yougotwill.com)
-- Socials [LinkedIn](https://www.linkedin.com/in/yougotwill), [Twitter](https://twitter.com/yougotwill)
+- Socials <a href="https://www.linkedin.com/in/yougotwill" target="_blank">LinkedIn</a>, <a href="https://twitter.com/yougotwill" target="_blank">Twitter</a>
 
 ## Current Status 👀
 
