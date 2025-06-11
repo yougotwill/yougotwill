@@ -1,16 +1,26 @@
+<img src="https://i.kym-cdn.com/photos/images/original/001/475/420/c62.gif" alt="obi-wan-kenobi-meme" width="320px"/>
+
 # Hello there 👋
 
-<img src="https://i.kym-cdn.com/photos/images/original/001/475/420/c62.gif" alt="obi-wan-kenobi-meme" width="320"/>
+## Full-stack Web Developer 👨‍💻 • Frontend specialist 🎨
 
-## Open source fan ∙ from South Africa 🇿🇦
+I like working on projects that have impact and enjoy contributing to the open source community in my free time. 🌍
 
-- Web Developer with a focus on Front-End 👨‍💻
-- I like building web applications that have an impact. 💥
-- Currently messing around with NextJS but love keeping up to date with the latest web technologies. 🚀
+Learn more about me on my [website](https://yougotwill.com). 🚀
 
-Want to learn more about me? Head on over to my <a href="https://yougotwill.github.io" target="_blank">website</a>. 🌐
+## Previously 📝
 
+- [Session Messenger](https://getsession.org) ([@session-foundation](https://github.com/session-foundation), [@oxen-io](https://github.com/oxen-io))
+- [Timbuktu Travel](https://timbuktutravel.com)
 
-Want to chat?
-- Send me an email at [yougotwill94@gmail.com](mailto:yougotwill94@gmail.com). 📧
-- Tweet me at [yougotwill](https://twitter.com/yougotwill). 🐥
+## Want to chat? 💬
+- Drop an email [hi@yougotwill.com](mailto:hi@yougotwill.com)
+- Socials [LinkedIn](https://www.linkedin.com/in/yougotwill), [Twitter](https://twitter.com/yougotwill)
+
+## Current Status 👀
+
+Taking a breather between roles and doing a bit of freelancing.
+
+**Open to opportunities from August 2025.**
+
+<a href="https://drive.proton.me/urls/38K0G4YCJM#JgBW2n9dtE8X" target="blank">Resume</a>
